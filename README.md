@@ -1,4 +1,9 @@
-# Web Fundamentals Part 1
+<div align="center">
+    <img alt="School of Code" src="./images/soc-logo.png" width="60" />
+</div>
+<h1 align="center">
+  Web Fundamentals 1
+</h1>
 
 [Welcome to this theme's video](https://youtu.be/qGl9trMf-3k)
 
@@ -36,7 +41,7 @@ Lets get coding! HTML and CSS are two very important languages when it comes to 
 
 Whilst you are going through those tutorials use VS Code to practice, and create a website in this repo that uses what you've learnt to create a simple website. It can be about anything but if you need a starting point them make a website all about your favorite food.
 
-### Tidy Up Avatar 💃
+### Avatar Recap 💃
 
 You did enough to get on the course but now you know a little bit more about how things work we'd like you to spruce up your SOC avatar. Now that you know a bit more about HTML and CSS you should understand how it works a bit more. Spend some time getting your avatar as good as you can whilst thinking about how HTML and CSS work together. [Here is the link](application.schoolofcode.io) to the character building. Let us know if you can't remember your login details!
 
