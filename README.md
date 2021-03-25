@@ -84,7 +84,11 @@ As you know from the live session, git is a wonderful tool to help us track chan
 
 ### Line Commander 👨‍💻👩‍💻
 
-- [Line Commander](https://schoolofcode.github.io/line-commander/)
+Learning to navigate a computer using the command line is a skill that gives you lots of power. It will also make you feel like a hacker in a movie. There are a few basic commands to learn first and a lot of more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input.
+
+We have put together this challenge which should help you get to grips with the basics and also so dome cool stuff! We would like you to do this in your pair. We think you should both download the activity folder and work through it at the same time. Take in in turns to share your screens and every time you make it to the next level switch who is sharing. It's important to stay together so don't race ahead of your partner, remember you are a team.
+
+- [Line Commander Challenge](https://schoolofcode.github.io/line-commander/)
 
 ### Making a Website 👨‍💻👩‍💻
 
@@ -92,9 +96,9 @@ As you know from the live session, git is a wonderful tool to help us track chan
 
 ### CSS Games 👨‍💻👩‍💻
 
-- css diner
-- flex box froggy
-- grid garden
+In the `marksheet.io` tutorial you learnt about css selectors. Take in in turns to share screen as you work your way through this css selector challenge: [css diner](https://flukeout.github.io/)
+
+The next two games are about css properties that help us layout sections of our websites, or indeed our whole page. Get fantastic at flex box using [flex box froggy](https://flexboxfroggy.com/), a get good at grid with [grid garden](https://cssgridgarden.com/)
 
 ### Code Review 👨‍💻👩‍💻
 
