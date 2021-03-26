@@ -5,8 +5,6 @@
   Web Fundamentals 1
 </h1>
 
-[Welcome to this theme's video](https://youtu.be/qGl9trMf-3k)
-
 ## Overview
 
 Welcome to your first ever resources repo. Here you will find all the links to information and tasks that you will need for your first week of part time study. Each week has a theme, a goal, and a set of resources to help you achieve your goal whilst learning about the theme. This weeks theme, as you may already know, is Web Fundamentals Part 1, and the the goal of this week is to build a website. Along the way we are going to get to grips with our coding environment, learn what on earth the internet even is, ground ourselves in the building blocks of the web and practice working with others.
@@ -33,7 +31,7 @@ We have selected three videos for you to watch from a series youtube videos that
 
 ### Setting up your IDE 🛠
 
-We will be using VS Code to edit all our code. It's light weight, flexible and used widely across the industry. [Watch this video](https://code.visualstudio.com/docs/introvideos/basics) that shows you how to download and get started editing some files!
+You've already had a play with VS Code. If you are still unsure about the basics you can [Watch this video](https://code.visualstudio.com/docs/introvideos/basics) that shows you how to download and get started editing some files. Spend some time just familiarising yourself with the program and practice the keyboard shortcuts. You can find a [printable shortcut reference here](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) or in the home screen of VS Code. You can also find a [searchable reference here](https://vscode-shortcuts.com/).
 
 ### Learn HTML and CSS 🖥
 
@@ -117,9 +115,15 @@ Code reviews are an important part of working in a dev team and by the end of th
 
 Below you will find the pairs and teams for this week. Your pair will be the person you see the most but keep in touch with your team throughout the week. Ask them how they are getting on and use them as your first port of call if you are stuck on something.
 
-**Things to do**
+**Pair Programming Links**
 
-- Set up a group chat as your team
+- https://martinfowler.com/articles/on-pair-programming.html
+- https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/
+- https://www.agilealliance.org/glossary/pairing/
+
+**Things to do...**
+
+- Set up a group chat in slack for your team
 - Review the other pair's code
 - Work around each others schedules
 - Be inclusive and have fun!
@@ -154,6 +158,6 @@ Below you will find the pairs and teams for this week. Your pair will be the per
 
 ### Checkpoint Challenge ✅
 
-Your first checkpoint challenge is to make a website all about your partner. This site will be a profile representing your partner to the rest of the group. As we said on Saturday, you should interview your partner to find out all the information you need and how they think their profile should be. You should also use your own judgment as to what the rest of the cohort would find interesting.
+Your first checkpoint challenge is to make a website all about your partner. This site will be a profile representing your partner to the rest of the group. As we said on Saturday, you should work with your partner to find out all the information you need and how they think their profile should be. You should also use your own judgment as to what the rest of the cohort would find interesting.
 
 Follow this link and accept the GitHub classroom assignment. This will create a repo within the School of Code organisation for you to use. This will help us check up on how everyone is doing!
