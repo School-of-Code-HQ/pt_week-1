@@ -111,14 +111,18 @@ The next two games are about css properties that help us layout sections of our 
 
 [![](./images/code-reviews.png)](https://www.canva.com/design/DAEZyid3JlU/UWiz-Z0aGCQ2iapSsJiLog/view?utm_content=DAEZyid3JlU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-During the week ask for a code review from [Here you will find the presentation about code reviews](https://www.canva.com/design/DAEZyid3JlU/UWiz-Z0aGCQ2iapSsJiLog/view?utm_content=DAEZyid3JlU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Code reviews are an important part of working in a dev team and by the end of the course will become second nature. During this first week ask for a code review from the other pair in your team (see below). They should also ask for a code review from you. Spend some time in your pair reading through their code and ask questions you have and make any comments you think necessary. [Here you can find the presentation about code reviews to help you](https://www.canva.com/design/DAEZyid3JlU/UWiz-Z0aGCQ2iapSsJiLog/view?utm_content=DAEZyid3JlU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 ## Groups and Pairs
 
-- Set up a group chat
-- Review the other pair
+Below you will find the pairs and teams for this week. Your pair will be the person you see the most but keep in touch with your team throughout the week. Ask them how they are getting on and use them as your first port of call if you are stuck on something.
+
+**Things to do**
+
+- Set up a group chat as your team
+- Review the other pair's code
 - Work around each others schedules
-- Be inclusive
+- Be inclusive and have fun!
 
 <details>
 <summary>Pairs for Week 1</summary>
