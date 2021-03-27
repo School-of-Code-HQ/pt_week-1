@@ -15,7 +15,7 @@ Welcome to your first ever resources repo. Here you will find all the links to i
 - Build our first website
 - Host that website using netlify
 
-## Learning Tasks
+## Weekly Journey
 
 The following tasks are for you to do in your own time, on your own and with your pair. They all will help you practice the skills necessary for this weeks objectives. Take your time, enjoy the process, and read around each part.
 
