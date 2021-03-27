@@ -2,7 +2,7 @@
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
 <h1 align="center">
-  Web Fundamentals 1
+  Web Fundamentals Part 1
 </h1>
 
 ## Overview
@@ -11,9 +11,9 @@ Welcome to your first ever resources repo. Here you will find all the links to i
 
 ### This Weeks Objectives
 
-- Get comfortable in our coding environment
-- Build our first website
-- Host that website using netlify
+- Get comfortable in our coding environment.
+- Build our first website.
+- Host that website using netlify.
 
 ## Weekly Journey
 
