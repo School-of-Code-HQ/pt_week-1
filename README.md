@@ -1,3 +1,4 @@
+
 <div align="center">
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
