@@ -157,6 +157,6 @@ Below you will find the pairs and teams for this week. Your pair will be the per
 
 ### Checkpoint Challenge ✅
 
-Your first checkpoint challenge is to make a website all about your partner. This site will be a profile representing your partner to the rest of the group. As we said on Saturday, you should work with your partner to find out all the information you need and how they think their profile should be. You should also use your own judgment as to what the rest of the cohort would find interesting.
+Your first checkpoint challenge is to make a website all about a person in the other pair in your group. This site will be a profile representing your partner to the rest of the cohort. As we said on Saturday, you should work with your group to find out all the information you need and how they think their profile should be. You should also use your own judgment as to what the rest of the cohort would find interesting. Each pair will work on their opposite pair's websites together.
 
-Follow this link and accept the GitHub classroom assignment. This will create a repo within the School of Code organisation for you to use. This will help us check up on how everyone is doing!
+Follow this link and accept the GitHub Classroom assignment. This will create a repo within the School of Code organisation for you to use. This will help us check up on how everyone is doing!
