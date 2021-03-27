@@ -131,28 +131,27 @@ Below you will find the pairs and teams for this week. Your pair will be the per
 <details>
 <summary>Pairs for Week 1</summary>
 
-| Pair | Team |                                   |
-| ---- | ---- | --------------------------------- |
-| 1    | 1    | Tom Walker & Gurmukh Chandan      |
-| 2    | 1    | Rebecca Floyd & Sara Mohamoud     |
-| 3    | 2    | Sellanni McKenzie & Jamie Hannah  |
-| 4    | 2    | Amina Muhammad & Toby Smith       |
-| 5    | 3    | Rumaanah Ellahi & Emilio Comiling |
-| 6    | 3    | Lewis Murray & Catherine Butler   |
-| 7    | 4    | Kate Harrison & Alina Savin       |
-| 8    | 4    | Becks Maybury & Nancy Echefu      |
-| 9    | 5    | Kelly Ryan & Muna Fidow           |
-| 10   | 5    | Wiktor Nowicki & Merlin Jones     |
-| 11   | 6    | Helena Archer & Jack Browne       |
-| 12   | 6    | Maryam Dar & Yonis Elmi           |
-| 13   | 7    | Clarisse Leduc & Jubair Ahmed     |
-| 14   | 7    | Natalie Pinnock & Ines Perez      |
-| 15   | 8    | Rachel Haynes & Umar Begg         |
-| 16   | 8    | Asfand Khan & Amdadur Rahman      |
-| 17   | 9    | Tania Yeromiyan & Jade Phipps     |
-| 18   | 9    | Claudiu Manta & Shola Quadri      |
-| 19   | 10   | Yasmin Mohamud & Jordan Linton    |
-| 20   | 10   | Ryan Brown & Gemma Whitfield      |
+| Pair | Team |                                             |
+| ---- | ---- | ------------------------------------------- |
+| 1    | A    | Tom Walker & Gurmukh Chandan                |
+| 2    | A    | Rebecca Floyd & Sara Mohamoud               |
+| 3    | B    | Sellanni McKenzie & Jamie Hannah            |
+| 4    | B    | Amina Muhammad & Toby Smith                 |
+| 5    | C    | Rumaanah Ellahi & Emilio Comiling           |
+| 6    | C    | Lewis Murray & Catherine Butler             |
+| 7    | D    | Kate Harrison & Alina Savin                 |
+| 8    | D    | Becks Maybury & Nancy Echefu                |
+| 9    | E    | Kelly Ryan & Muna Fidow                     |
+| 10   | E    | Wiktor Nowicki & Merlin Jones               |
+| 11   | F    | Helena Archer & Jack Browne                 |
+| 12   | F    | Maryam Dar & Yonis Elmi                     |
+| 13   | G    | Clarisse Leduc & Jubair Ahmed               |
+| 14   | G    | Natalie Pinnock & Ines Perez                |
+| 15   | H    | Rachel Haynes & Umar Begg                   |
+| 16   | H    | Asfand Khan & Amdadur Rahman                |
+| 17   | I    | Tania Yeromiyan & Jade Phipps               |
+| 18   | I    | Claudiu Manta & Shola Quadri                |
+| 19   | J    | Yasmin Mohamud & Jordan Linton & Ryan Brown |
 
 </details>
 
