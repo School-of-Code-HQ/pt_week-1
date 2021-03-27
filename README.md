@@ -1,7 +1,5 @@
 # Web Fundamentals Part 1
 
-[Welcome to this theme's video](https://youtu.be/qGl9trMf-3k)
-
 ## Overview
 
 Welcome to your first ever resources repo. Here you will find all the links to information and tasks that you will need for your first week of part time study. Each week has a theme, a goal, and a set of resources to help you achieve your goal whilst learning about the theme. This weeks theme, as you may already know, is Web Fundamentals Part 1, and the the goal of this week is to build a website. Along the way we are going to get to grips with our coding environment, learn what on earth the internet even is, ground ourselves in the building blocks of the web and practice working with others.
