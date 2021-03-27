@@ -158,4 +158,4 @@ Your first checkpoint challenge is to make a website all about your pair partner
 
 You will need to build up the skills to complete this task - so don't rush straight in! We will have time to get everyone kickstarted in our first Wednesday session.
 
-Follow this link and accept the GitHub Classroom assignment. This will create a repo within the School of Code organisation for you to use. This will help us check up on how everyone is doing!
+Follow this link and accept the [GitHub Classroom assignment](https://classroom.github.com/a/xDDHnM-e). This will create a repo within the School of Code organisation for you to use. This will help us check up on how everyone is doing!
