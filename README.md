@@ -41,7 +41,7 @@ Whilst you are going through those tutorials use VS Code to practice, and practi
 
 ### Avatar Recap 💃
 
-You did enough to get on the course, but now you know a little bit more about how things work we'd like you to spruce up your SOC avatar. Now that you know a bit more about HTML and CSS you should understand how it works a bit more. Spend some time getting your avatar as good as you can whilst thinking about how HTML and CSS work together. [Here is the link](application.schoolofcode.io) to the character building. Let us know if you can't remember your login details!
+You did enough to get on the course, but now you know a little bit more about how things work we'd like you to spruce up your SOC avatar. Now that you know a bit more about HTML and CSS you should understand how it works a bit more. Spend some time getting your avatar as good as you can whilst thinking about how HTML and CSS work together. [Here is the link](https://application.schoolofcode.io) to the character building. Let us know if you can't remember your login details!
 
 ### Learn Markdown ⇣
 
