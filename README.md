@@ -11,14 +11,14 @@ Welcome to your first ever resources repo. Here you will find all the links to i
 
 ### This Week's Objectives
 
-#### Learning
+#### Learning:
 
 1. Understand our coding environment: using Git, GitHub and VS Code.
 2. Learn how to build our first website using HTML and CSS.
 3. Understand and start practicing pair programming.
 4. Start thinking about user and client needs.
 
-#### Mindset
+#### Mindset:
 
 1. Understand why active learning is important.
 2. Work effectively in pairs and teams.
