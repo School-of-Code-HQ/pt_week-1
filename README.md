@@ -1,4 +1,3 @@
-
 <div align="center">
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
@@ -10,10 +9,21 @@
 
 Welcome to your first ever resources repo. Here you will find all the links to information and tasks that you will need for your first week of part time study. Each week has a theme, a goal, and a set of resources to help you achieve your goal whilst learning about the theme. This weeks theme, as you may already know, is Web Fundamentals Part 1, and the the goal of this week is to build a website. Along the way we are going to get to grips with our coding environment, learn what on earth the internet even is, ground ourselves in the building blocks of the web and practice working with others.
 
-### This Weeks Objectives
+### This Week's Objectives
 
-- Get comfortable in our coding environment.
-- Build our first website.
+#### Learning
+
+1. Understand our coding environment: using Git, GitHub and VS Code.
+2. Learn how to build our first website using HTML and CSS.
+3. Understand and start practicing pair programming.
+4. Start thinking about user and client needs.
+
+#### Mindset
+
+1. Understand why active learning is important.
+2. Work effectively in pairs and teams.
+3. Communicate and articulate our thought processes while programming.
+4. Reflect on our daily progress.
 
 ## Weekly Journey
 
