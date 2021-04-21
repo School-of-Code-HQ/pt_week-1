@@ -2,7 +2,7 @@
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
 <h1 align="center">
-  Web Fundamentals Part 1
+  Web Fundamentals 1
 </h1>
 
 ## Overview
